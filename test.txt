@@ -10,4 +10,4 @@ pull git pull origin master
 push git status
      git add .
      git commit -m "message"
-     git push prigin master
+     git push origin master
